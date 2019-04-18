@@ -53,3 +53,7 @@ Students must not have too many commitments and will be willing to commit a dece
 # One of these positions not suit you?
 
 If you believe you have skills that may be of benefit to the team, may that be logo design, database architecture, db cluster and load balancing experience, get in touch. Even if you do not meet our current needs we may have need for your help later.
+
+# Contact
+
+Email your CV and/or previous work to mastrotris@myvuw.ac.nz
